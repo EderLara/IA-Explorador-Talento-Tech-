@@ -40,7 +40,7 @@ Este repositorio se estructura en torno a los tres pilares del aprendizaje autom
 ### 📂 ***Estructura General Para Estudiantes:***
 
 Para mantener todo organizado, deberás manejar una estructura de carpetas similar a esta:
-
+```
 /
 ├── 01_Aprendizaje_Supervisado/
 │   ├── Teoria/
@@ -58,6 +58,8 @@ Para mantener todo organizado, deberás manejar una estructura de carpetas simil
 ├── Tutoriales_Recursos_Externos/
 ├── Sesiones_Estudio/ (Notas, resúmenes, Q&A de las sesiones)
 └── README.md
+
+```
 
 
 ## 🛠️ Herramientas Comunes
