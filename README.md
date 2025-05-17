@@ -97,4 +97,6 @@ Los ejercicios y tutoriales se enfocarán principalmente en:
 ¡Este es un proyecto de aprendizaje colaborativo!
 * Si encuentras errores, tienes sugerencias para mejorar el material, o quieres añadir nuevos ejercicios o tutoriales, por favor, siéntete libre de **abrir un Issue** o **enviar un Pull Request**.
 * Cualquier feedback es bienvenido para hacer de este un recurso aún mejor.
+* Autor: Eder Lara Trujillo
+* Repositorio creado con ❤️ para compartir conocimiento
 
