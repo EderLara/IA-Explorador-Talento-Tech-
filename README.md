@@ -37,6 +37,9 @@ Este repositorio se estructura en torno a los tres pilares del aprendizaje autom
    * **Ejercicios:** Problemas clásicos como el Grid World, FrozenLake, y posiblemente introducciones a entornos más complejos con librerías como Gymnasium (antes OpenAI Gym).
    * **Tutoriales:** Enlaces para entender cómo los agentes aprenden a tomar decisiones óptimas.
 
+### **Repositorio de Tutoriales:**
+   * Podemos complementar el aprendizaje apoyandonos en este repositorio [Repositorio de Tutoriales](https://github.com/EderLara/CuadernosPythonParaML)
+
 ### 📂 ***Estructura General Para Estudiantes:***
 
 Para mantener todo organizado, deberás manejar una estructura de carpetas similar a esta:
